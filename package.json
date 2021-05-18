@@ -1,0 +1,26 @@
+{
+  "name": "nzbmovies",
+  "version": "1.0.0",
+  "description": "Movies scrapper. Get films data from some usenet site.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leksdashko/MovieScrapper.git"
+  },
+  "author": "leksdashko <leksdashko@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leksdashko/MovieScrapper/issues"
+  },
+  "homepage": "https://github.com/leksdashko/MovieScrapper#readme",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "cheerio": "^1.0.0-rc.9",
+    "cherio": "^1.0.0-rc.2",
+    "puppeteer": "^9.1.1",
+    "transliteration": "^2.2.0"
+  }
+}
